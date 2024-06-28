@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Greenhouse buildcon at Stockholm",
+    "authors": ["andrew hunt", "david thomas"],
+    "summary": "Greenhouse buildcon at Stockholm Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scr",
+    "publish_date": "2019-10-29",
+    "num_reviews": 30,
+    "publisher": "addison-wesley"
+  },
+  {
+    "title": "Green house to buy in Stockholm",
+    "authors": ["eric matthes"],
+    "summary": "Green house to buy in Stockholm Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scr",
+    "publish_date": "2019-05-03",
+    "num_reviews": 42,
+    "publisher": "no starch press"
+  },
+  {
+    "title": "Green Super Cars",
+    "authors": ["stuart russell", "peter norvig"],
+    "summary": "Green Super Cars Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scr",
+    "publish_date": "2020-04-06",
+    "num_reviews": 39,
+    "publisher": "pearson"
+  },
+  {
+    "title": "Greenscreen to buy now",
+    "authors": ["robert c. martin"],
+    "summary": "Greenscreen to buy now Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scr",
+    "publish_date": "2008-08-11",
+    "num_reviews": 55,
+    "publisher": "prentice hall"
+  },
+  {
+    "title": "Amazing Housetech in the store",
+    "authors": ["kyle simpson"],
+    "summary": "Amazing Housetech in the store Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scr",
+    "publish_date": "2015-03-27",
+    "num_reviews": 36,
+    "publisher": "oreilly"
+  }
+]
